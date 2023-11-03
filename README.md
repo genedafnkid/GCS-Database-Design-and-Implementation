@@ -49,16 +49,12 @@ This repository contains SQL scripts for creating a project management database.
 ## Views
 
 ### 1. PROJECT_DETAILS_VIEW:
-    - The PROJECT_DETAILS_VIEW offers a comprehensive overview of project information, consolidating data from various tables in the database. 
-    It includes project ID, description, start and end dates, along with detailed employee assignments and customer information. 
-    This view serves as a convenient reference for project managers and stakeholders, providing a holistic snapshot of ongoing projects, 
-    their associated tasks, assigned employees, and customer details.
+- **Parameters**: None
+- **Description**: Provides a comprehensive overview of all ongoing projects, including project ID, description, start and end dates, along with detailed employee assignments and customer information. This view consolidates data from multiple tables, offering a convenient reference for project managers and stakeholders to gain insights into project progress, task assignments, and customer relationships.
 
 ### 2. EMPLOYEE_SKILLS_VIEW:
-    - The EMPLOYEE_SKILLS_VIEW provides a consolidated view of employee skills and their proficiency levels within the organization. 
-    This view showcases employee IDs, names, and their respective skills, along with skill descriptions and rates. It offers valuable insights into the skills possessed by each employee, 
-    aiding in project allocation and skill matching. Project managers and team leads can use this view to make informed decisions regarding task assignments, 
-    ensuring that projects are staffed with employees possessing the required skills for successful execution.
+   - **Parameters**: None
+   - **Description**: Presents a consolidated view of employee skills and their proficiency levels within the organization. This view includes employee IDs, names, skills, skill descriptions, and proficiency levels. It offers valuable insights into the skills possessed by each employee, aiding project managers and team leads in making informed decisions regarding task assignments. By matching required skills with employee expertise, this view ensures that projects are staffed appropriately, enhancing project efficiency and success rates
 
 ---
 
