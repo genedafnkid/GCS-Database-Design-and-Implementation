@@ -49,10 +49,16 @@ This repository contains SQL scripts for creating a project management database.
 ## Views
 
 ### 1. PROJECT_DETAILS_VIEW:
-    - The PROJECT_DETAILS_VIEW offers a comprehensive overview of project information, consolidating data from various tables in the database. It includes project ID, description, start and end dates, along with detailed employee assignments and customer information. This view serves as a convenient reference for project managers and stakeholders, providing a holistic snapshot of ongoing projects, their associated tasks, assigned employees, and customer details.
+    - The PROJECT_DETAILS_VIEW offers a comprehensive overview of project information, consolidating data from various tables in the database. 
+    It includes project ID, description, start and end dates, along with detailed employee assignments and customer information. 
+    This view serves as a convenient reference for project managers and stakeholders, providing a holistic snapshot of ongoing projects, 
+    their associated tasks, assigned employees, and customer details.
 
 ### 2. EMPLOYEE_SKILLS_VIEW:
-    - The EMPLOYEE_SKILLS_VIEW provides a consolidated view of employee skills and their proficiency levels within the organization. This view showcases employee IDs, names, and their respective skills, along with skill descriptions and rates. It offers valuable insights into the skills possessed by each employee, aiding in project allocation and skill matching. Project managers and team leads can use this view to make informed decisions regarding task assignments, ensuring that projects are staffed with employees possessing the required skills for successful execution.
+    - The EMPLOYEE_SKILLS_VIEW provides a consolidated view of employee skills and their proficiency levels within the organization. 
+    This view showcases employee IDs, names, and their respective skills, along with skill descriptions and rates. It offers valuable insights into the skills possessed by each employee, 
+    aiding in project allocation and skill matching. Project managers and team leads can use this view to make informed decisions regarding task assignments, 
+    ensuring that projects are staffed with employees possessing the required skills for successful execution.
 
 ---
 
